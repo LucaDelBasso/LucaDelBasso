@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaDelBasso
-- 👀 I’m interested in Data Engineering and Machine Learning
-- 🌱 I’m currently learning bash and Flask
+- 👀 I’m interested in Data Engineering and creative programming
+- 🌱 I’m currently learning AWS and p5.js
 - 📫 How to reach me: 
   -  lucadelbasso98@gmail.com 
   -  https://www.linkedin.com/in/lucadelbasso/
