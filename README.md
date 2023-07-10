@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaDelBasso
 - 👀 I’m interested in Data Engineering and creative programming
-- 🌱 I’m currently learning AWS and Flask
+- 🌱 I’m currently learning AWS and FastAPI and Docker
 - 📫 How to reach me: 
   -  lucadelbasso98@gmail.com 
   -  https://www.linkedin.com/in/lucadelbasso/
